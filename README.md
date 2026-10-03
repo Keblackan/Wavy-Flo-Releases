@@ -13,6 +13,8 @@ even on a computer without a strong graphics card.
 
 ### [⬇ Download the newest Wavy-Flo](https://github.com/Keblackan/Wavy-Flo-Releases/releases/latest)
 
+[What's new in 0.28](https://github.com/Keblackan/Wavy-Flo-Releases/releases/tag/v0.28)
+
 <img src="docs/overview.png" alt="Wavy-Flo with a particle title open" width="100%">
 
 </div>
